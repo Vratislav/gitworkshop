@@ -14,6 +14,6 @@ Git byl vymyzšlen Linusem Torvaldsem. Někdy v 70 letech byla napsána první v
 # Klienti gitu
 
 * SourceTree (https://www.sourcetreeapp.com/)
-* GitLab
+* GitLab (https://gitlab.net)
 * TortoiseGit (https://tortoisegit.org/)
 * CMD line
