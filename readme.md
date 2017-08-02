@@ -1,3 +1,3 @@
 # O gitu
 
-Git je verzovací systém
+Git je verzovací systém, a je moc fajn.
