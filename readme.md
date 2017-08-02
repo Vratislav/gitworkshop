@@ -12,6 +12,8 @@ Git je verzovací systém, a je moc fajn.
 Git byl vymyzšlen Linusem Torvaldsem. Někdy v 70 letech byla napsána první verze.
 
 # Klienti gitu
+
 * SourceTree (https://www.sourcetreeapp.com/)
+* GitLab
 * TortoiseGit (https://tortoisegit.org/)
-* CMD linedssadads
+* CMD line
