@@ -14,4 +14,4 @@ Git byl vymyzšlen Linusem Torvaldsem. Někdy v 70 letech byla napsána první v
 # Klienti gitu
 * SourceTree
 * TortoiseGit
-* CMD line
+* CMD linedssadads
