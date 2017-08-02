@@ -9,4 +9,4 @@ Git je verzovací systém, a je moc fajn.
 
 # O historii
 
-Git byl vymyzšlen Linusem Torvaldsem.
+Git byl vymyzšlen Linusem Torvaldsem. Někdy v 70 letech byla napsána první verze.
